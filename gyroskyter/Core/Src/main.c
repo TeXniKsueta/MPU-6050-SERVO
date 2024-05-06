@@ -199,8 +199,7 @@ int main(void)
 					//			 TIM2->CCR1=(-Accel_X_Filtr/8)+3300;
 
 //							}
-	  printf("Preved!\r\n");
-	  printf("GOI\r\n");
+
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
